@@ -2,10 +2,8 @@
 
 ## Table of Contents
 
-- [Landing Page Project](#landing-page-project)
-  - [Table of Contents](#table-of-contents)
-  - [Description](#description)
-  - [Author](#author)
+  * [Description](#description)
+  * [Author](#author)
   
 
 ## Description
